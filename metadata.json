@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Sovereign",
+  "description": "Classic 4-player tabletop Ludo board game with smart AI opponents, local pass-and-play, step-by-step animations, and synthesized wooden sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
